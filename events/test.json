@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "User-Agent": "curl/7.54.0",
+    "Accept": "*/*",
+    "Content-Type": "application/json"
+  },
+  "path": "/getHello/",
+  "resourcePath": "/getHello/",
+  "httpMethod": "POST",
+  "requestContext": {
+    "authorizer": {
+      "fiid": "FOO",
+      "custId": "9999"
+    }
+  },
+  "body": {
+    "name": "Eskinder"
+  }
+}
